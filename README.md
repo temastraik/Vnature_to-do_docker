@@ -22,7 +22,7 @@
 5. В терминале установить необходимое JavaScript окружение <br>
 "docker-compose exec app npm install"
 
-6. Перейти по следующим адрес:
-phpMyAdmin будет доступен по адресу: http://localhost:8080
-Приложение будет доступно по адресу: http://localhost:8000
+6. Перейти по следующим адрес:<br>
+phpMyAdmin будет доступен по адресу: http://localhost:8080<br>
+Приложение будет доступно по адресу: http://localhost:8000<br>
 Работа с API будет доступна по адресу: http://localhost:8000/api/tasks
